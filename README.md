@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **thisisaalireza@gmail.com**
 
-- ⚡ Fun fact **I love cooking!**
 
 
 
