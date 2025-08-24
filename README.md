@@ -72,13 +72,6 @@ const alireza = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisalireza&show_icons=true&locale=en&theme=radical" alt="thisalireza" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisalireza&theme=radical" alt="thisalireza" />
 
-  
-
-
-
-
-
-
 
 </div>
 
@@ -90,10 +83,22 @@ const alireza = {
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center" margin-top="60px">
-  <img src="https://github.com/mehedihasanrabbivip/mehedihasanrabbivip/blob/output/github-snake-dark.svg" alt="Snake animation in dark" />
-</p>
 
-
+<div align="center"> 
+<picture >
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 
 ## ⭐ If you like my work, don’t forget to star this profile and follow me!
