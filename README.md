@@ -31,3 +31,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisalireza&show_icons=true&locale=en" alt="thisalireza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisalireza&" alt="thisalireza" /></p>
+
+
+
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/mehedihasanrabbivip/mehedihasanrabbivip/blob/output/github-snake-dark.svg" alt="Snake animation in dark" />
+</p>
+
+
+
+## ⭐ If you like my work, don’t forget to star this profile and follow me!
