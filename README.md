@@ -4,7 +4,6 @@
 
 
 
-
     
 - 🔭 I’m currently working on [shopping-angular](https://github.com/thisalireza/shopping-angular)
 
@@ -101,4 +100,5 @@ const alireza = {
 </picture>
 </div>
 
-## ⭐ If you like my work, don’t forget to star this profile and follow me!
+## ⭐ If you like my work, don’t forget to star this profile and follow me! 
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
