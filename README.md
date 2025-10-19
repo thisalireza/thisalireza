@@ -27,7 +27,7 @@
 
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,jquery,webpack,figma,ps,docker,linux,nginx,git,gitlab,firebase,wordpress,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,reactivex,jquery,npm,webpack,figma,ps,grafana,docker,bash,linux,redhat,ubuntu,nginx,git,gitlab,firebase,mysql,wordpress,)](https://skillicons.dev)
 
 
 
