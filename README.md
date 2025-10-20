@@ -15,7 +15,7 @@
 
 
 
-    <img align="center" style="max-width: 100%; display: inline-block;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thisalireza&show_icons=true&locale=en&layout=compact&theme=radical" alt="thisalireza" />
+
 
 
 
@@ -66,17 +66,35 @@ const alireza = {
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisalireza&show_icons=true&locale=en&theme=radical" alt="thisalireza" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisalireza&theme=radical" alt="thisalireza" />
-
-
+##  <div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block" > <img align="center" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" data-canonical-src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">GitHub Stats</h2></summary>
+  </ul>
 </div>
 
 
 
+
+
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thisalireza&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thisalireza&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisalireza&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+</p>   
 
 
 
@@ -103,3 +121,8 @@ const alireza = {
 
 ## ⭐ If you like my work, don’t forget to star this profile and follow me! 
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
+
+
+
+
+
